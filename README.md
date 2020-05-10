@@ -9,8 +9,8 @@ Module 6 - UT Data Boot Camp
 ---
 # Module 6 Challenge
 ## Part 1 - Get the Weather Description and Amount of Precipitation for Each City
-### Weather_Database.ipynb
+### ----- See file Weather_Database.ipynb
 ## Part 2 - Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
-### Vacation_Search.ipynb
+### ----- See file Vacation_Search.ipynb
 ## Part 3 - Create a Travel Itinerary with a Corresponding Map
-### Vacation_Itinerary.ipynb
+### ----- See file Vacation_Itinerary.ipynb
